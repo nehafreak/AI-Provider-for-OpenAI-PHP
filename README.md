@@ -88,7 +88,3 @@ Available models and capabilities may change. Refer to the [OpenAI Models docume
 - [WordPress PHP AI Client](https://github.com/WordPress/php-ai-client)
 - [OpenAI API Documentation](https://platform.openai.com/docs/)
 - [OpenAI Models](https://platform.openai.com/docs/models)
-
-## License
-
-Refer to the original project's repository for its license and attribution requirements. If redistributing or modifying this project, preserve the applicable license and copyright notices.
